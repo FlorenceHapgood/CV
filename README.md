@@ -16,7 +16,7 @@ When the time came to work out how to support myself as an actor, I quickly real
 
 #### Perseverance 
 
-As I chose to go to university rather than pursue further acting training, I didn’t have the support of a drama school to launch me into the industry, nor their advice to guide me. I spent four years writing to casting directors – often up to four times a day - to persuade them to let me audition for their projects. Over the years, I built up a body of work doing this that ultimately allowed me to sign with a prominent acting agent. With maturity I feel my desire to be an actor lessenned, but I still feel proud of how I tackled the hardships of the industry. 
+As I chose to go to university rather than pursue further acting training, I didn’t have the support of a drama school to launch me into the industry, nor their advice to guide me. I spent four years writing to casting directors – often up to four times a day - to persuade them to let me audition for their projects. This involved attempting to find out what was being produced, whether or not there was a part which I would be siutable for, who to write to and how to contact them. Over the years, I built up a body of work doing this that ultimately allowed me to sign with a prominent acting agent. With maturity I feel my desire to be an actor lessenned, but I still feel proud of how I tackled the hardships of the industry. 
 
 ## Education
 
