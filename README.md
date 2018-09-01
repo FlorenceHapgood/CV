@@ -1,6 +1,6 @@
 ## Florence Hapgood
 
-I am a conscientious and energetic Software Developer. After graduating with a First in Art History from Nottingham University, I was an actor for several years. To support myself, I was a private tutor of piano, maths and English. After discovering coding in my spare time, I decided to retrain as Software Developer. I have recently completed a 12 week software development bootcamp at Makers Academy, and I’m now looking for a job in a charity. 
+I am a conscientious and energetic Software Developer. After graduating with a First in Art History from Nottingham University, I was an actor for several years. To support myself, I was a private tutor of Piano, Maths and English. After discovering coding in my spare time, I decided to retrain as Software Developer. I have recently completed a 12 week software development bootcamp at Makers Academy, and I’m now looking for a job in a charity. 
 
 ## Skills
 
@@ -12,7 +12,7 @@ Articulation and communication are some of my strongest skills. As an actor, it 
 
 #### Adaptability
 
-When the time came to work out how to support myself as an actor, I quickly realised that the main demand in the tutoring industry was for Primary maths, English (subjects that I hadn’t studied in years) and piano. I decided it was necessary to let go of my idea of tutoring art history and adapt to the demand. I did a lot of research into how to teach those subjects and the current syllabus requirements, and ultimately built a thriving tutoring business 
+When the time came to work out how to support myself as an actor, I quickly realised that the main demand in the tutoring industry was for Primary Maths, English (subjects that I hadn’t studied in years) and Piano. I decided it was necessary to let go of my idea of tutoring art history and adapt to the demand. I did a lot of research into how to teach those subjects and the current syllabus requirements, and ultimately built a thriving tutoring business 
 
 #### Perseverance 
 
