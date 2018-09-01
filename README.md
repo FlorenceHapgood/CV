@@ -8,17 +8,15 @@ I am a conscientious and energetic Software Developer. After graduating with a F
 
 #### Communication
 
-Articulation and communication are some of my strongest skills. As an actor, put myself in someone elses shoes. Similar skills were necessary when I was teaching, as I had to adapt to the learning style of my students and understand why they were having problems understanding a topic. Additionally, I studied Art History at university, which is a very word subject! I am confident in my ability to explain technical issues to people who are not from a tech background and to communicate effectively with my co-workers. 
+Articulation and communication are some of my strongest skills. As an actor, it was, of course, crucial to be able to put myself in someone else's shoes. Similar skills were necessary when I was teaching, as I had to adapt to the learning style of my students and understand why they were having problems understanding a topic. Additionally, I studied Art History at university, which is a very wordy subject! I am confident in my ability to explain technical issues to people who are not from a tech background and to communicate effectively with my co-workers. 
 
 #### Adaptability
 
 When the time came to work out how to support myself as an actor, I quickly realised that the main demand in the tutoring industry was for Primary maths, English (subjects that I hadn’t studied in years) and piano. I decided it was necessary to let go of my idea of tutoring art history and adapt to the demand. I did a lot of research into how to teach those subjects and the current syllabus requirements, and ultimately built a thriving tutoring business 
 
-
 #### Perseverance 
 
-I chose to go to university rather than pursue further acting training. I didn’t have the support of a drama school to launch me into the industry, nor their advice to guide me. I spent four years writing to casting directors – often four times a day - to persuade them to let me audition for their projects. Over the years, I built up a body of work doing this that ultimately allowed me to sign with a prominent acting agent. With maturity I feel my desire to be an actor has been satisfied, but I’m glad that I don’t have to feel that the hardships of the industry got the better of me.  
-
+As I chose to go to university rather than pursue further acting training, I didn’t have the support of a drama school to launch me into the industry, nor their advice to guide me. I spent four years writing to casting directors – often up to four times a day - to persuade them to let me audition for their projects. Over the years, I built up a body of work doing this that ultimately allowed me to sign with a prominent acting agent. With maturity I feel my desire to be an actor lessenned, but I still feel proud of how I tackled the hardships of the industry. 
 
 ## Education
 
@@ -38,7 +36,6 @@ I chose to go to university rather than pursue further acting training. I didn�
 - History of Art, BA
 - First Class Hons
 - Secretary of The Nottingham New Theatre (2010 - 2011)
-
 
 #### LAMDA (London Academy of Music and Dramatic Art, 2008 – 2009)
 - Foundation Year Acting Diploma
