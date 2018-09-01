@@ -40,7 +40,7 @@ As I chose to go to university rather than pursue further acting training, I did
 #### LAMDA (London Academy of Music and Dramatic Art, 2008 – 2009)
 - Foundation Year Acting Diploma
 
-#### Francis Holland, Clarence Gate (2001 – 2009)
+#### Francis Holland, Clarence Gate (2001 – 2008)
 
 - Sixth Form Scholar and Prefect
 -	3 A grades at A-Level
