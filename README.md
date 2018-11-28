@@ -1,10 +1,8 @@
 ## Florence Hapgood
 
-I am a conscientious and energetic Software Developer. After graduating with a First in Art History from Nottingham University, I was an actor for several years. To support myself, I was a private tutor of Piano, Maths and English. After discovering coding in my spare time, I decided to retrain as Software Developer. I have recently completed a 12 week software development bootcamp at Makers Academy, and I’m now looking for a job in a charity. 
+I am a conscientious and energetic Software Developer. After graduating with a First in Art History from Nottingham University, I was an actor for several years. To support myself, I was a private tutor of Piano, Maths and English. After discovering coding in my spare time, I decided to retrain as Software Developer. I have recently completed a 12 week software development bootcamp at Makers Academy, and I’m now looking for job where I can continue to develop my skills and contribute to a company.
 
 ## Skills
-
-#### Technical paragraph about problem solving and tech: Blank for now.
 
 #### Communication
 
@@ -21,10 +19,6 @@ As I chose to go to university rather than pursue further acting training, I did
 ## Education
 
 #### Makers Academy (September 2018 to November 2018)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
