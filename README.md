@@ -1,29 +1,36 @@
 ## Florence Hapgood
 
-I am a conscientious and energetic Software Developer. After graduating with a First in Art History from Nottingham University, I was an actor for several years. To support myself, I was a private tutor of Piano, Maths and English. After discovering coding in my spare time, I decided to retrain as Software Developer. I have recently completed a 12 week software development bootcamp at Makers Academy, and I’m now looking for job where I can continue to develop my skills and contribute to a company.
+I am an energetic, enthusiastic and sometimes ecstatic Software Developer. After graduating with a First in Art History from Nottingham University, I was an actor for several years. To support myself, I was a private tutor of Piano, Maths and English. While searching for an outlet for my love of complex problem solving, I discovered coding. I have recently completed a 12 week software development bootcamp at Makers Academy, I'm now looking for a Full-Stack job in a warm and friendly environment. 
 
-## Skills
+##Skills
+
+### Quality Code
+
+At Makers, the focus was on building good quality code. Makers has turned me into a developer who uses OOP and TDD, and values principles such as DRY and SOLID. While I'm open to other ways of working, I'm very happy to have a strong programming foundation and ability to be able make good quality code. 
 
 #### Communication
 
-Articulation and communication are some of my strongest skills. As an actor, it was, of course, crucial to be able to put myself in someone else's shoes. Similar skills were necessary when I was teaching, as I had to adapt to the learning style of my students and understand why they were having problems understanding a topic. Additionally, I studied Art History at university, which is a very wordy subject! I am confident in my ability to explain technical issues to people who are not from a tech background and to communicate effectively with my co-workers. 
+Articulation and communication are some of my strongest skills. As an actor, it was crucial to be able to put myself in someone else's shoes. I am therefore able to communicate very effectively with my co-workers, a skill which has served me well during pair programming sessions. Similar skills were necessary when I was teaching, as I had to adapt to the learning style of my students and understand why they were having problems understanding a topic. It is now necessary to apply these skill to myself, as I am constantly learning something new or encountering a bug with a program. Diagnosing the gaps in my knowledge, articulating them, and often communicating my questions to others them are areas I feel I excel in. I predict that my tutoring background will also give me the ability to explain technical concepts to people who are not from a tech background, and I'd be interested in exploring this skill in a future role. 
 
 #### Adaptability
 
-When the time came to work out how to support myself as an actor, I quickly realised that the main demand in the tutoring industry was for Primary Maths, English (subjects that I hadn’t studied in years) and Piano. I decided it was necessary to let go of my idea of tutoring art history and adapt to the demand. I did a lot of research into how to teach those subjects and the current syllabus requirements, and ultimately built a thriving tutoring business 
+When the time came to work out how to support myself as an actor, I quickly realised that the main demand in the tutoring industry was for Primary Maths, English (subjects that I hadn’t studied in years) and Piano. I decided it was necessary to let go of my idea of tutoring art history and adapt to the demand. I did a lot of research into how to teach those subjects and the current syllabus requirements, and ultimately built a thriving tutoring business. 
 
 #### Perseverance 
 
-As I chose to go to university rather than pursue further acting training, I didn’t have the support of a drama school to launch me into the industry, nor their advice to guide me. I spent four years writing to casting directors – often up to four times a day - to persuade them to let me audition for their projects. This involved attempting to find out what was being produced, whether or not there was a part which I would be siutable for, who to write to and how to contact them. Over the years, I built up a body of work doing this that ultimately allowed me to sign with a prominent acting agent. With maturity I feel my desire to be an actor lessenned, but I still feel proud of how I tackled the hardships of the industry. 
+As I chose to go to university rather than pursue further acting training, I didn’t have the support of a drama school to launch me into the industry, nor their advice to guide me. I spent four years writing to casting directors – often up to four times a day - to persuade them to let me audition for their projects. This involved attempting to find out what was being produced, whether or not there was a part which I would be suitable for, who to write to and how to contact them. Over the years, I built up a body of work doing this that ultimately allowed me to sign with a prominent acting agent. With maturity my desire to be an actor lessened, but I still feel proud of how I tackled the hardships of the industry. 
 
 ## Education
 
 #### Makers Academy (September 2018 to November 2018)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Languages: Ruby, JavaScript
+- Frameworks: Rails, Sinatra
+- Databases: PostgreSQL, Active Storage
+- Testing: RSpec, Capybara, Jasmine 
+- Methodologies: Agile/XP
+- Pair programming
+- Continugous Integration: Travis 
 
 #### Nottingham University (2009 to 2013)
 
@@ -55,6 +62,6 @@ As I chose to go to university rather than pursue further acting training, I did
 
 ## Hobbies and Interests
 
--	Swing Dancing
 -	Learning Italian 
+-	Swing Dancing
 -	Showering dogs with affection
