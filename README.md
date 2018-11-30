@@ -2,7 +2,7 @@
 
 I am an energetic, enthusiastic and sometimes ecstatic Software Developer. After graduating with a First in Art History from Nottingham University, I was an actor for several years. To support myself, I was a private tutor of Piano, Maths and English. While searching for an outlet for my love of complex problem solving, I discovered coding. I have recently completed a 12 week software development bootcamp at Makers Academy, I'm now looking for a Full-Stack job in a warm and friendly environment. 
 
-##Skills
+## Skills
 
 ### Quality Code
 
