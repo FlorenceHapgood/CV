@@ -6,7 +6,7 @@ I am an energetic, enthusiastic and sometimes ecstatic Software Developer, with 
 
 #### Quality Code
 
-At Makers, the focus was on building good quality code. Makers has turned me into a developer who uses OOP and TDD, and values principles such as DRY and SOLID. While I'm open to other ways of working, I'm very happy to have a strong programming foundation and ability to make good quality code. 
+At Makers, the focus was on building good quality code. Makers has turned me into a developer who currently uses OOP and TDD, and values principles such as DRY and SOLID. While I'm open to other ways of working, I'm very happy to have a strong programming foundation and ability to work in these ways. 
 
 #### Communication
 
