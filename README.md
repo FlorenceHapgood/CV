@@ -8,8 +8,8 @@ I am an energetic, enthusiastic and sometimes ecstatic Software Developer, with 
 | -------| ----| -------- |---------------------|-------------------|------------------------------|
 | [As If](https://github.com/FlorenceHapgood/wardrobe-app-1)   | Group |  An app to help people style themselves, inspired by the greatest film ever made: Clueless | Two weeks | Rails, Javascript, jQuery, CarrierWave | RSpec, Capybara| 
 |[Bowling Challenge](https://github.com/FlorenceHapgood/bowling-challenge) | Individual | A Bowling Score Card, to keep track of those deceptively complicated bowling rules | Four days | Javascript, jQuery, CSS | Jasmine | 
-| [Bank Tech Test](https://github.com/FlorenceHapgood/Bank_tech_test/blob/master/README.md) | Individual | Practise Tech Test, to create a Bank Balance App  | Two days | Ruby | RSpec, Capybara |
-| [Acebook](https://github.com/FlorenceHapgood/acebook-rails-the-spartans) | Group | Our first rails project, A Facebook Clone. Our group used Agile Practises for the first time | Two weeks | Rails, CSS | RSpec, Capybara|
+| [Bank Tech Test](https://github.com/FlorenceHapgood/Bank_tech_test/blob/master/README.md) | Individual | Practice Tech Test, to create a Bank Balance App  | Two days | Ruby | RSpec, Capybara |
+| [Acebook](https://github.com/FlorenceHapgood/acebook-rails-the-spartans) | Group | Our first rails project, A Facebook Clone. Our group used Agile Practices for the first time | Two weeks | Rails, CSS | RSpec, Capybara|
 
 
 ## Skills
@@ -39,7 +39,7 @@ As I chose to go to university rather than pursue further acting training, I did
 - Testing: RSpec, Capybara, Jasmine 
 - Methodologies: Agile/XP
 - Pair programming
-- Continugous Integration: Travis 
+- Continuous Integration: Travis 
 
 #### Nottingham University (2009 to 2013)
 
