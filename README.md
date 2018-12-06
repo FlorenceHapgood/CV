@@ -6,11 +6,10 @@ I am an energetic, enthusiastic and sometimes ecstatic Software Developer, with 
 
 |  Title | Type| Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 | -------| ----| -------- |---------------------|-------------------|------------------------------|
-| [As If](https://github.com/FlorenceHapgood/wardrobe-app-1)   | Group |  An app to help people find clothes in their wardrobe that match, inspired by the greatest film ever made: Clueless | Two weeks | Rails, Javascript, JQuery, CarrierWave | Travis, Heroku, RSpec, Capybara| 
+| [As If](https://github.com/FlorenceHapgood/wardrobe-app-1)   | Group |  An app to help people style themselves, inspired by the greatest film ever made: Clueless | Two weeks | Rails, Javascript, JQuery, CarrierWave | Travis, Heroku, RSpec, Capybara| 
 |[Bowling Challenge](https://github.com/FlorenceHapgood/bowling-challenge) | Individual | A Bowling Score Card, to keep track of those deceptively confusing bowling rules | Four days | Javascript, JQuery, CSS | Jasmine | 
 | [Bank Tech Test](https://github.com/FlorenceHapgood/Bank_tech_test/blob/master/README.md) | Individual | Practise Tech Test, to create a Bank Balance App  | Two days | Ruby | RSpec, Capybara |
-| [Acebook](https://github.com/FlorenceHapgood/acebook-rails-the-spartans) | Group | Our first rails project: A Facebook Clone. Our group used Agile Practises for the first time | Two Weeks | Rails, CSS | RSpec, Capybara, Travis, Heroku|
-
+| [Acebook](https://github.com/FlorenceHapgood/acebook-rails-the-spartans) | Group | Our first rails project, A Facebook Clone. Our group used Agile Practises for the first time | Two Weeks | Rails, CSS | RSpec, Capybara, Travis, Heroku|
 
 
 ## Skills
