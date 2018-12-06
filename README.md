@@ -12,6 +12,7 @@ I am an energetic, enthusiastic and sometimes ecstatic Software Developer, with 
 | [Acebook](https://github.com/FlorenceHapgood/acebook-rails-the-spartans) | Group | Our first rails project: A Facebook Clone. Our group used Agile Practises for the first time | Two Weeks | Rails, CSS | RSpec, Capybara, Travis, Heroku|
 
 
+
 ## Skills
 
 #### Quality Code
@@ -24,7 +25,7 @@ Articulation and communication are some of my strongest skills. As an actor, it 
 
 #### Adaptability
 
-When the time came to work out how to support myself as an actor, I quickly realised that the main demand in the tutoring industry was for Primary Maths, English (subjects that I hadn’t studied in years) and Piano. I decided it was necessary to let go of my idea of tutoring art history and adapt to the demand. I did a lot of research into how to teach those subjects and the current syllabus requirements, and ultimately built a thriving tutoring business. 
+When the time came to work out how to support myself as an actor, I quickly realised that the main demand in the tutoring industry was for Primary Maths, English (subjects that I hadn’t studied in years) and Piano. I decided it was necessary to let go of my idea of tutoring art history and adapt to the demand. I did a lot of research into how to teach those subjects and the current syllabus requirements, and ultimately built a thriving tutoring business. I am the first ex-actor that they've had at Makers, and the fact that I've been able to learn programming despite coming from a vastly different background shows my ability to learn quickly. 
 
 #### Perseverance 
 
