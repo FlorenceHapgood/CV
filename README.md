@@ -9,7 +9,7 @@ I am an energetic, enthusiastic and sometimes ecstatic Software Developer, with 
 | [As If](https://github.com/FlorenceHapgood/wardrobe-app-1)   | Group |  An app to help people style themselves, inspired by the greatest film ever made: Clueless | Two weeks | Rails, Javascript, jQuery, CarrierWave | RSpec, Capybara| 
 |[Bowling Challenge](https://github.com/FlorenceHapgood/bowling-challenge) | Individual | A Bowling Score Card, to keep track of those deceptively complicated bowling rules | Four days | Javascript, jQuery, CSS | Jasmine | 
 | [Bank Tech Test](https://github.com/FlorenceHapgood/Bank_tech_test/blob/master/README.md) | Individual | Practice Tech Test, to create a Bank Balance App  | Two days | Ruby | RSpec, Capybara |
-| [Acebook](https://github.com/FlorenceHapgood/acebook-rails-the-spartans) | Group | Our first rails project, A Facebook Clone. Our group used Agile Practices for the first time | Two weeks | Rails, CSS | RSpec, Capybara|
+| [Acebook](https://github.com/FlorenceHapgood/acebook-rails-the-spartans) | Group | Our first rails project, a Facebook clone. Our group used Agile Practices for the first time | Two weeks | Rails, CSS | RSpec, Capybara|
 
 
 ## Skills
