@@ -1,6 +1,6 @@
 ## Florence Hapgood
 
-I am an energetic, enthusiastic and sometimes ecstatic Software Developer, with a fondness for alliteration. After graduating with a First in Art History from Nottingham University, I was an actor for several years. To support myself, I was a private tutor of Piano, Maths and English. While searching for an outlet for my love of complex problem solving, I discovered coding. I have recently completed a 12 week software development bootcamp at Makers Academy, and I'm now looking for a Full-Stack job in a warm and friendly environment. 
+I am an energetic, enthusiastic and sometimes ecstatic Software Developer, with a fondness for alliteration. After graduating with a First in Art History from Nottingham University, I was an actor for several years. To support myself, I was a private tutor of Piano, Maths and English. While searching for an outlet for my love of complex problem solving, I discovered coding. I have recently completed a 12 week software development bootcamp at Makers Academy, and I'm now looking for a full stack job in a warm and friendly environment. 
 
 ## Projects
 
@@ -25,7 +25,7 @@ Articulation and communication are some of my strongest skills. As an actor, it 
 
 #### Adaptability
 
-When the time came to work out how to support myself as an actor, I quickly realised that the main demand in the tutoring industry was for Primary Maths, English (subjects that I hadn’t studied in years) and Piano. I decided it was necessary to let go of my idea of tutoring art history and adapt to the demand. I did a lot of research into how to teach those subjects and the current syllabus requirements, and ultimately built a thriving tutoring business. I am the first ex-actor that they've had at Makers, and the fact that I've been able to learn programming despite coming from a vastly different background shows my ability to learn quickly. 
+When the time came to work out how to support myself as an actor, I quickly realised that the main demand in the tutoring industry was for Primary Maths, English (subjects that I hadn’t studied in years) and Piano. I decided it was necessary to let go of my idea of tutoring Art History and adapt to the demand. I did a lot of research into how to teach those subjects and the current syllabus requirements, and ultimately built a thriving tutoring business. I am the first ex-actor that they've had at Makers, and the fact that I've been able to learn programming despite coming from a vastly different background shows my ability to learn quickly. 
 
 #### Perseverance 
 
