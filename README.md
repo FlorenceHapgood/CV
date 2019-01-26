@@ -10,7 +10,8 @@ I am an energetic, enthusiastic and sometimes ecstatic Software Developer, with 
 | [Acebook](https://github.com/FlorenceHapgood/acebook-rails-the-spartans) | Group | Our first rails project, a Facebook clone. Our group used Agile Practices for the first time | Two weeks | Rails, CSS | RSpec, Capybara|
 |[Bowling Challenge](https://github.com/FlorenceHapgood/bowling-challenge) | Individual | A bowling score card, to keep track of those deceptively complicated bowling rules | Four days | Javascript, jQuery, CSS | Jasmine | 
 | [Bank Tech Test](https://github.com/FlorenceHapgood/Bank_tech_test/blob/master/README.md) | Individual | Practice Tech Test, to create a bank balance app  | Two days | Ruby | RSpec, Capybara |
-| [Javascript JamesBond](https://github.com/FlorenceHapgood/Javascript-JamesBond) | Individual | An example of what I've been doing after Makers: a James Bond quiz app, in honour of my 8-year-old self | Two days | Javascript, jQuery, CSS | Cypress, Jasmine
+| [Javascript JamesBond](https://github.com/FlorenceHapgood/Javascript-JamesBond) | Individual | An example of what I've been doing after Makers: a James Bond quiz app, in honour of my 8-year-old self | Two days | Javascript, jQuery, CSS | Cypress, Jasmine|
+| [House Targareact](https://github.com/FlorenceHapgood/React-GameOfThrones) | Individual | After Makers, I learnt some React.js and I'm  building a Game of Thrones App | Three days | React.js |  Ongoing
 
 
 ## Skills
