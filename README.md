@@ -22,7 +22,7 @@ At Makers, the focus was on building good quality code. Makers has turned me int
 
 #### Communication
 
-Articulation and communication are some of my strongest skills. As an actor, it was crucial to be able to put myself in someone else's shoes. I am therefore able to communicate very effectively with my co-workers, a skill which has served me well during pair programming sessions. Similar skills were necessary when I was teaching, as I had to adapt to the learning style of my students and understand why they were having problems understanding a topic. It is now necessary to apply these techniques to myself, as I am constantly learning something new or trying to solve a bug. Diagnosing the gaps in my knowledge, articulating them, and (often) communicating my questions to others are areas I excel at. I predict that my tutoring background will give me the ability to explain technical concepts to people who are not from a tech background, and I'd be interested in exploring this skill in the future.
+Articulation and communication are some of my strongest skills. As an actor, it was crucial to be able to put myself in someone else's shoes. I am therefore able to communicate very effectively with my co-workers, a skill which has served me well during pair programming sessions. Similar skills were necessary when I was teaching, as I had to adapt to the learning style of my students and understand why they were having problems understanding a topic. It is now necessary to apply these techniques to myself, as I am constantly learning something new or trying to solve a bug. Diagnosing the gaps in my knowledge, articulating them, and (often) communicating my questions to others are areas I excel at. 
 
 #### Adaptability
 
